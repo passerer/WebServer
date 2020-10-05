@@ -1,0 +1,13 @@
+port=1316
+trigMode=3
+timeoutMS=5000
+optLinger=false
+sqlPort=3306
+sqlUser=root
+sqlPwd=toor
+dbName=mydb
+connPoolNum=12
+threadNum=6
+openLog=false
+logLevel=0
+logQueSize=1024
